@@ -151,7 +151,7 @@ footer a.up{
 
 	<header> 
 
-		<img src="![liqae2](https://cloud.githubusercontent.com/assets/18057595/14036817/38f6c594-f23d-11e5-99e5-c95c4f116dd3.png)" height="20%" width="20%"> 
+		<img src="![alt tag](https://cloud.githubusercontent.com/assets/18057595/14036817/38f6c594-f23d-11e5-99e5-c95c4f116dd3.png)" height="20%" width="20%"> 
 
 
 		<nav class="clear"> 
@@ -184,7 +184,7 @@ footer a.up{
 
 			<figure> 
 
-					<img src="![2](https://cloud.githubusercontent.com/assets/18057595/14036816/38d1896e-f23d-11e5-901d-7aac182fe8ae.jpg)" width="640" height="340" /></a>
+					<img src="![alt tag](https://cloud.githubusercontent.com/assets/18057595/14036816/38d1896e-f23d-11e5-901d-7aac182fe8ae.jpg)" width="640" height="340" /></a>
 
 			</figure>
 
