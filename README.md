@@ -17,7 +17,7 @@ figure{
 html{ 
   margin:0;
   padding:0;
-  background: url(![bg](https://cloud.githubusercontent.com/assets/18057595/14036818/38fb9e98-f23d-11e5-917f-61f5f8c4e5f9.jpg)) no-repeat center fixed; 
+  background: url(![alt tag](https://cloud.githubusercontent.com/assets/18057595/14036818/38fb9e98-f23d-11e5-917f-61f5f8c4e5f9.jpg)) no-repeat center fixed; 
   -webkit-background-size: cover; 
   background-size: cover; 
 }
